@@ -1,0 +1,1 @@
+numOfGuests = int(input())
